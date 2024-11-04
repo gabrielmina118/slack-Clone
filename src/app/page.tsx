@@ -1,3 +1,4 @@
+"use client";
 import { AuthScreen } from "@/feactures/auth/components/auth-screen";
 
 export default function Home() {
